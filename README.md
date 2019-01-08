@@ -12,20 +12,20 @@
 
 ## Topic
 
-# Dymanic Programming
+### Dymanic Programming
   - Value iteration
   - Policy Iteration
 
-# Q-learning
+### Q-learning
   - Q-learning
 
-# Deep Q-learning
+### Deep Q-learning
   - basic DQN
   - N-Step DQN
   - Double DQN
   - Dueling DQN
 
-# Actor-Critic Method
+### Actor-Critic Method
   - A2C
 
 
